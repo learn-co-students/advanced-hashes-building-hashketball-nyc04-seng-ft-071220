@@ -140,3 +140,7 @@
  
 }
 end
+
+
+# when building hashs with sub arrays . read the the instructions , 
+# line by line look up the syntax for a better understanding of how it should look 
